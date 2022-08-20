@@ -15,7 +15,7 @@ React初学者的入门示例
 ### React-TypeScript版
 开发中，敬请期待
 ### Qing-Node
-- [qw-koa2](https://github.com/ArtanisW/qw-react)
+- [qw-koa2](https://github.com/ArtanisW/qw-koa2)开发中
 ## 背景
 当你从零开始搭建React脚手架时，有木有觉得很繁琐  
 create-react-app配置隐晦，xx企业级框架过于厚重  
